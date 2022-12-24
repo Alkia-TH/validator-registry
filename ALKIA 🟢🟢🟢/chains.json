@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AVIAONE 🟢",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper17vnkjsg78a2zpjdhfppka2ah207sjjwqax2s7q",
+      "restake": {
+        "address": "bcna1sdtursdqgmlmlchhyywldrvfyry006jwz3lcuv",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    }	
+  ]
+}
